@@ -10,7 +10,7 @@ To enhance usability and provide a seamless experience, I am building a simple w
 I hope <span style="background: lightgreen; color: black; padding: 2px 2px; border: 2px solid green; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);">**Simple Digital Gallery**</span>  can greatly streamline the process, providing an enjoyable, uninterrupted way to access and display photos and videos.
 
 ## List of Features
-You can find the <span style="background: lightgreen; color: black; padding: 2px 2px; border: 2px solid green; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);">**Simple Digital Gallery**</span> [here](Gallery.html).
+You can find the <span style="background: lightgreen; color: black; padding: 2px 2px; border: 2px solid green; border-radius: 4px; box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);">**Simple Digital Gallery**</span> [here](https://html-preview.github.io/?url=https://github.com/220pmc/Simple-Digital-Gallery/blob/main/Gallery.html).
 
 > 1. Navigation buttons to switch between media content within the same album
 > 2. Buttons to scroll through and explore different albums
